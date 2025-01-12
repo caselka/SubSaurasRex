@@ -2,7 +2,6 @@
 
 A dinosaur-themed **subdomain enumeration** and **vulnerability scanning** tool built in Python. Discover hidden subdomains, verify DNS records, check for missing security headers, and generate comprehensive reports—all wrapped in a fun T-Rex aesthetic.
 
-![Sub Saurus Rex Logo](https://user-images.githubusercontent.com/placeholder-logo.png "Optional Logo")
 
 ## Table of Contents
 1. [Features](#features)
